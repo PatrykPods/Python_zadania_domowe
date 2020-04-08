@@ -9,4 +9,3 @@ while x < counter :
         print("*" + " " * (counter - 2) + "*")
     x += 1
 
-print(math.sqrt(10))
